@@ -20,7 +20,11 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   padding: 60px 20px 0 20px;
-  max-width: 600px;
-    margin: auto;
+  max-width: 800px;
+  margin: auto;
+  background-image: url("@/assets/background.jpg");
+  background-size: cover;
+  height: 100vh;
+  color: #010101;
 }
 </style>
