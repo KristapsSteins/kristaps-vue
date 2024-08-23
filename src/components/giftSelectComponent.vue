@@ -14,7 +14,7 @@
         style="margin-left: 10px"
         for="flexSwitchCheckDefault"
       >
-        {{ showRich ? "Bagātās aploksnes" : "Nabadzīgās aploksnes" }}
+        {{ showRich ? "Bagātās aploksnes (drīkst pamēģināt)" : "Nabadzīgās aploksnes" }}
       </label>
     </div>
     <div class="card-container">
