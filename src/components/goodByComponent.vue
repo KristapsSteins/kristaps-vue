@@ -30,7 +30,7 @@ export default {
       setTimeout(() => {
         clearInterval(countdownInterval);
         window.location.href = "https://smscredit.lv";
-      }, 7000);
+      }, 15000);
     }
   }
 };
