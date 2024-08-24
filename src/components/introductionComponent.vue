@@ -3,9 +3,10 @@
       <div class="d-flex flex-column gap-3">
         <h1>Kristapam 30!!!</h1>
         <h3>Ielūdzu tevi uz savām dzimšanas dienas svinībām</h3>
-        <h4>Laiks: 15:00</h4>
-        <h4>Datums: 2024. gada 14. septembrs</h4>
-        <h4>Vieta: Vīgriežu iela 39-2, Jelgava, Latvija</h4>
+        <h4>Laiks: 16:00</h4>
+        <h4>Datums: 2024. gada 14. septembris</h4>
+        <h4>Vieta: Vasarnīca Žubīte, Svēte, Latvija</h4>
+        <h4>Būs arī baļļa!!!</h4>
         <h3>Lūdzu apstirpini savu ierašanos</h3>
       </div>
       <div class="form-group mt-3">
